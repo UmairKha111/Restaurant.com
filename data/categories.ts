@@ -16,7 +16,7 @@ export const categories: Category[] = [
     id: "2",
     slug: "breads",
     title: "Breads",
-    image: "/images/breads.webp",
+    image: "/images/Breads.webp",
   },
   {
     id: "3",
@@ -40,7 +40,7 @@ export const categories: Category[] = [
     id: "6",
     slug: "fatafat-takeaway",
     title: "Mood’s Fatafat Takeaway",
-    image: "/images/categories/breads.webp",
+    image: "/images/categories/Breads.webp",
   },
   {
     id: "7",
@@ -70,7 +70,7 @@ export const categories: Category[] = [
     id: "11",
     slug: "baklawa-boxes",
     title: "Baklawa Boxes",
-    image: "/images/categories/breads.webp",
+    image: "/images/categories/Breads.webp",
   },
   {
     id: "12",

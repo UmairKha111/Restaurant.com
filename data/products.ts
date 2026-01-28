@@ -6,7 +6,7 @@ export const products: Product[] = [
     category: "cakes",
     title: "Chocolate Cake",
     price: 799,
-    image: "/images/breads.webp",
+    image: "/images/Breads.webp",
   },
   {
     id: "2",
@@ -27,14 +27,14 @@ export const products: Product[] = [
     category: "breads",
     title: "Bread",
     price: 699,
-    image: "/images/breads.webp",
+    image: "/images/Breads.webp",
   },
   {
     id: "5",
     category: "cookies",
     title: "Vanilla Cake",
     price: 699,
-    image: "/images/breads.webp",
+    image: "/images/Breads.webp",
   },
   {
     id: "6",
